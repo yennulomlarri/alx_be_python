@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f03e10c5-257a-4579-b167-a39bfe801a2f" name="Changes" comment="Completed Python Introduction project" />
+    <list default="true" id="f03e10c5-257a-4579-b167-a39bfe801a2f" name="Changes" comment="Completed Python Introduction project">
+      <change afterPath="$PROJECT_DIR$/control-flow/daily_reminder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control-flow/match_case_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control-flow/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control-flow/pattern_drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/control-flow/weather_advice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +25,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yennulomlarri&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yennulomlarri/alx_be_python.git&quot;,
+    &quot;accountId&quot;: &quot;ee7c4cb2-c35d-4add-8008-82e000220739&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2znYPZxrF7pm9SyPGNLytZYu8SN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,10 +59,16 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basic_operations.executor": "Run",
+    "Python.daily_reminder.executor": "Run",
+    "Python.finance_calculator.executor": "Run",
     "Python.future_age_calculator.executor": "Run",
     "Python.hours_to_seconds.executor": "Run",
+    "Python.match_case_calculator.executor": "Run",
+    "Python.multiplication_table.executor": "Run",
+    "Python.pattern_drawing.executor": "Run",
     "Python.rectangle_area.executor": "Run",
     "Python.simple_interest.executor": "Run",
+    "Python.weather_advice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -44,8 +76,8 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.future_age_calculator">
-    <configuration name="basic_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.daily_reminder">
+    <configuration name="daily_reminder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_introduction/basic_operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/daily_reminder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="future_age_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_case_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_introduction/future_age_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/match_case_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hours_to_seconds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiplication_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_introduction/hours_to_seconds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/multiplication_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pattern_drawing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_introduction/rectangle_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/pattern_drawing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_interest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="weather_advice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_introduction/simple_interest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/weather_advice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.future_age_calculator" />
-        <item itemvalue="Python.hours_to_seconds" />
-        <item itemvalue="Python.rectangle_area" />
-        <item itemvalue="Python.simple_interest" />
-        <item itemvalue="Python.basic_operations" />
+        <item itemvalue="Python.daily_reminder" />
+        <item itemvalue="Python.pattern_drawing" />
+        <item itemvalue="Python.multiplication_table" />
+        <item itemvalue="Python.match_case_calculator" />
+        <item itemvalue="Python.weather_advice" />
       </list>
     </recent_temporary>
   </component>
@@ -196,8 +228,43 @@
       <option name="project" value="LOCAL" />
       <updated>1752370793935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Python Introduction project">
+      <option name="closed" value="true" />
+      <created>1752371918892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752371918892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed Python Introduction project">
+      <option name="closed" value="true" />
+      <created>1752372165829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752372165829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed Python Introduction project">
+      <option name="closed" value="true" />
+      <created>1752374329819</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752374329819</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Python Introduction project" />
