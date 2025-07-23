@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f03e10c5-257a-4579-b167-a39bfe801a2f" name="Changes" comment="Completed Python Introduction project">
-      <change afterPath="$PROJECT_DIR$/control-flow/daily_reminder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control-flow/match_case_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control-flow/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control-flow/pattern_drawing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control-flow/weather_advice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/explore_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/shopping_list_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,23 +59,27 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basic_operations.executor": "Run",
     "Python.daily_reminder.executor": "Run",
+    "Python.explore_datetime.executor": "Run",
     "Python.finance_calculator.executor": "Run",
     "Python.future_age_calculator.executor": "Run",
     "Python.hours_to_seconds.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.match_case_calculator.executor": "Run",
     "Python.multiplication_table.executor": "Run",
     "Python.pattern_drawing.executor": "Run",
     "Python.rectangle_area.executor": "Run",
+    "Python.shopping_list_manager.executor": "Run",
     "Python.simple_interest.executor": "Run",
     "Python.weather_advice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.daily_reminder">
+  <component name="RunManager" selected="Python.temp_conversion_tool">
     <configuration name="daily_reminder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
@@ -99,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match_case_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="explore_datetime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fns_and_dsa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/match_case_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fns_and_dsa/explore_datetime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiplication_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fns_and_dsa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/multiplication_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fns_and_dsa/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern_drawing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shopping_list_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fns_and_dsa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/pattern_drawing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fns_and_dsa/shopping_list_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weather_advice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp_conversion_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx_be_python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/control-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fns_and_dsa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control-flow/weather_advice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fns_and_dsa/temp_conversion_tool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temp_conversion_tool" />
+        <item itemvalue="Python.explore_datetime" />
+        <item itemvalue="Python.shopping_list_manager" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.daily_reminder" />
-        <item itemvalue="Python.pattern_drawing" />
-        <item itemvalue="Python.multiplication_table" />
-        <item itemvalue="Python.match_case_calculator" />
-        <item itemvalue="Python.weather_advice" />
       </list>
     </recent_temporary>
   </component>
